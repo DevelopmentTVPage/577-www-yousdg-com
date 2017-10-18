@@ -1,0 +1,15 @@
+{
+    "title": "youtube",
+    "baseURL": "http:\/\/www.yousdg.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1759035",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "yousdg.com"
+    }
+}
